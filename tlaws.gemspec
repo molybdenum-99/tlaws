@@ -6,12 +6,12 @@ require "tlaws/version"
 Gem::Specification.new do |spec|
   spec.name          = "tlaws"
   spec.version       = Tlaws::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Yuri Valigursky"]
+  spec.email         = ["yuri.valigursky@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A repository for TLAW-based thin API wrappers, for all the world}
+  spec.description   = %q{A repository for TLAW-based thin API wrappers, for all the world}
+  spec.homepage      = "https://github.com/molybdenum-99/tlaws"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
